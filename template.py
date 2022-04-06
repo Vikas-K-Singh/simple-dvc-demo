@@ -3,7 +3,7 @@ dirs = [
     os.path.join("data", "raw"),
     os.path.join("data","processed"),
     "notebooks",
-    "saved_models",
+    "saved_models","report",
     "src"
 ]
 for dir_ in dirs:
